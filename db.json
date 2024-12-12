@@ -10,5 +10,10 @@
     "cargos": [
     { "id": 1, "nome": "caixa", "salario": 1600.90 },
     {"id":2, "nome":"tosador", "salario":1500.00}
+  ],
+    "funcionarios": [
+    { "id": 1, "nome": "Wanderley", "dataNascimento": "01/01/1996", "cpf": "111111111", "email":"funcionario1@email.com", "celular": "1111-1111", "logradouro": "Rua das Flores", "numero": "123","complemento": "Apt 101","bairro": "Jardim das Rosas","cidade": "São Paulo","estado": "SP","cep": "01234-567", "cargoId":1 },
+    { "id": 2, "nome": "Mariana Silva", "dataNascimento": "15/05/1990", "cpf": "222222222", "email": "funcionario2@email.com", "celular": "2222-2222", "logradouro": "Avenida Paulista", "numero": "456", "complemento": "Sala 201", "bairro": "Bela Vista", "cidade": "São Paulo", "estado": "SP", "cep": "01311-000", "cargoId": 2 },
+    { "id": 3, "nome": "Carlos Pereira", "dataNascimento": "10/10/1985", "cpf": "333333333", "email": "funcionario3@email.com", "celular": "3333-3333", "logradouro": "Rua das Palmeiras", "numero": "789", "complemento": "Casa", "bairro": "Pinheiros", "cidade": "São Paulo", "estado": "SP", "cep": "05401-100", "cargoId": 3 }
   ]
 }
