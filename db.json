@@ -15,5 +15,10 @@
     { "id": 1, "nome": "Wanderley", "dataNascimento": "01/01/1996", "cpf": "111111111", "email":"funcionario1@email.com", "celular": "1111-1111", "logradouro": "Rua das Flores", "numero": "123","complemento": "Apt 101","bairro": "Jardim das Rosas","cidade": "São Paulo","estado": "SP","cep": "01234-567", "cargoId":1 },
     { "id": 2, "nome": "Mariana Silva", "dataNascimento": "15/05/1990", "cpf": "222222222", "email": "funcionario2@email.com", "celular": "2222-2222", "logradouro": "Avenida Paulista", "numero": "456", "complemento": "Sala 201", "bairro": "Bela Vista", "cidade": "São Paulo", "estado": "SP", "cep": "01311-000", "cargoId": 2 },
     { "id": 3, "nome": "Carlos Pereira", "dataNascimento": "10/10/1985", "cpf": "333333333", "email": "funcionario3@email.com", "celular": "3333-3333", "logradouro": "Rua das Palmeiras", "numero": "789", "complemento": "Casa", "bairro": "Pinheiros", "cidade": "São Paulo", "estado": "SP", "cep": "05401-100", "cargoId": 3 }
+  ],
+    "clientes": [
+    { "id": 1, "nome": "Carlos Silva", "dataNascimento": "15/03/1985", "cpf": "22222222222", "email": "carlos.silva@email.com", "celular": "9876-5432", "logradouro": "Avenida Brasil", "numero": "456", "complemento": "Casa 2", "bairro": "Centro", "cidade": "Rio de Janeiro", "estado": "RJ", "cep": "20000-000", "fidelidade": 35},
+    { "id": 2, "nome": "Ana Pereira", "dataNascimento": "10/07/1992", "cpf": "33333333333", "email": "ana.pereira@email.com", "celular": "9987-6543", "logradouro": "Rua das Acácias", "numero": "789", "complemento": "Bloco C - 304", "bairro": "Vila das Flores", "cidade": "Belo Horizonte", "estado": "MG", "cep": "30123-456", "fidelidade": 20 },
+    { "id": 3, "nome": "Marcelo Oliveira", "dataNascimento": "22/11/1980", "cpf": "44444444444", "email": "marcelo.oliveira@email.com", "celular": "9123-4567", "logradouro": "Rua do Sol", "numero": "101", "complemento": "Sala 502", "bairro": "Itaim Bibi", "cidade": "São Paulo", "estado": "SP", "cep": "04567-890", "fidelidade": 15}
   ]
 }
