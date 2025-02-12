@@ -6,7 +6,7 @@
     { "id": 3, "nome": "Carlos Pereira", "dataNascimento": "1985-10-10", "cpf": "333333333", "email": "funcionario3@email.com", "celular": "3333-3333", "logradouro": "Rua das Palmeiras", "numero": "789", "complemento": "Casa", "bairro": "Pinheiros", "cidade": "São Paulo", "estado": "SP", "cep": "05401-100", "cargoId": 3, "cargo": "Tosador" }
   ],
     "clientes": [
-    { "id": 1, "nome": "Carlos Silva", "dataNascimento": "1985-15-03", "cpf": "22222222222", "email": "carlos.silva@email.com", "celular": "9876-5432", "logradouro": "Avenida Brasil", "numero": "456", "complemento": "Casa 2", "bairro": "Centro", "cidade": "Rio de Janeiro", "estado": "RJ", "cep": "20000-000", "fidelidade": 35},
+    { "id": 1, "nome": "Carlos Silva", "dataNascimento": "03-15-1985", "cpf": "22222222222", "email": "carlos.silva@email.com", "celular": "9876-5432", "logradouro": "Avenida Brasil", "numero": "456", "complemento": "Casa 2", "bairro": "Centro", "cidade": "Rio de Janeiro", "estado": "RJ", "cep": "20000-000", "fidelidade": 35},
     { "id": 2, "nome": "Ana Pereira", "dataNascimento": "1992-10-07", "cpf": "33333333333", "email": "ana.pereira@email.com", "celular": "9987-6543", "logradouro": "Rua das Acácias", "numero": "789", "complemento": "Bloco C - 304", "bairro": "Vila das Flores", "cidade": "Belo Horizonte", "estado": "MG", "cep": "30123-456", "fidelidade": 20 },
     { "id": 3, "nome": "Marcelo Oliveira", "dataNascimento": "1980-22-11", "cpf": "44444444444", "email": "marcelo.oliveira@email.com", "celular": "9123-4567", "logradouro": "Rua do Sol", "numero": "101", "complemento": "Sala 502", "bairro": "Itaim Bibi", "cidade": "São Paulo", "estado": "SP", "cep": "04567-890", "fidelidade": 15}
   ],
